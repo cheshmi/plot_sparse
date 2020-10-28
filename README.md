@@ -2,7 +2,7 @@
 Plot a graph from a sparse matrix in Matrix Market format. 
 
 # Requirement
-The script uses ngraph library and Graphvis.
+The script uses ngraph library and Graphvis. Dependencies are resolved by the script. 
 
 # Installation
 `
